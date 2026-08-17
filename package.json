@@ -1,0 +1,16 @@
+{
+  "name": "stitch-study-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "史迪奇学习乐园 - 纯静态 + Serverless 公开网站版",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "axios": "^1.6.2"
+  }
+}
